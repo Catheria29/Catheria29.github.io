@@ -1,9 +1,6 @@
 ---
 title: "MaRAI: Engineering AI for Maternal Health Impact"
 excerpt: "How I achieved 99.6% accuracy in predicting pregnancy complications using Random Forest."
-header:
-  overlay_image: /assets/images/marai-header.jpg
-  teaser: /assets/images/marai-teaser.jpg
 categories:
   - Machine Learning
 tags:
