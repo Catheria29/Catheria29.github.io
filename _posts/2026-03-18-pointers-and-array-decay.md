@@ -50,7 +50,7 @@ void maxAndMin(int arr[], int size, int *max, int *min) {
     }
 }
 
-###Key Takeaways
+### Key Takeaways
 
     Always pass the size: Since functions lose the array's size information, always pass it as a separate argument.
 
