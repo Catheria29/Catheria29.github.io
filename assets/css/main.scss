@@ -27,23 +27,6 @@ html {
     float: right;
   }
 }
-/* Change the Archive/List Title Color (MaRAI: Engineering AI...) */
-.archive__item-title a {
-  color: #2c3e50 !important;
-  text-decoration: none;
-}
-
-/* Change the Excerpt/Teaser Text Color (How I achieved 99.6%...) */
-.archive__item-excerpt {
-  color: #5f6769 !important;
-  font-size: 0.9em;
-}
-
-/* Change the color when you hover over the title */
-.archive__item-title a:hover {
-  color: #3498db !important;
-  text-decoration: underline;
-}
 
 // 3. Compact UI Tweaks
 h1 { font-size: 1.6rem; margin-bottom: 0.5em; }
