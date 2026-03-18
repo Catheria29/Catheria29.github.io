@@ -9,6 +9,14 @@ tags:
   - Deep Learning
   - Beginner
 ---
+---
+layout: single
+title: "Learning and Building: My Introduction to AI"
+permalink: /
+author_profile: true
+sidebar:
+  nav: "main"
+---
 
 Welcome to my technical portfolio. I am a **Computer Engineering student** at **Antalya Bilim University** with a **3.84 GPA**. While I am at the beginning of my journey into Artificial Intelligence, I am passionate about using data to solve real-world problems.
 As I prepare for a future Master's in AI, I am focusing on building a strong foundation. I believe that understanding the "how" behind a model is just as important as the results it produces. 
