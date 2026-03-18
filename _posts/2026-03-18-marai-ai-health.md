@@ -22,6 +22,8 @@ For the **MaRAI** project, I chose the **Random Forest Classifier**. While simpl
 * **Accuracy:** 99.6%
 * **Key Features:** Age, SystolicBP, DiastolicBP, BS (Blood Sugar), BodyTemp, and HeartRate.
 
+* ![MaRAI Confusion Matrix](/assets/images/marai_confusion_matrix.png)
+
 ### Deployment with Streamlit
 Model accuracy is useless if clinicians cannot access it. I utilized **Streamlit** to build a lightweight, real-time interface where health workers can input patient vitals and receive an instant risk assessment.
 
