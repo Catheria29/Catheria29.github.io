@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## 🚀 Featured AI & Machine Learning
+##  Featured AI & Machine Learning
 *The core of my research and development in Artificial Intelligence.*
 
 ### [MaRAI: Maternal Health Risk AI](https://maraihealth.streamlit.app)
@@ -22,7 +22,7 @@ Built a regression model to predict property valuations, optimizing performance 
 
 ---
 
-## 📱 Software & Systems Engineering
+##  Software & Systems Engineering
 *Building scalable, real-time architectures and low-level systems.*
 
 * **[Real-Time Chat App](https://github.com/Catheria29/RealTimechat):** Cross-platform mobile messaging via **WebSockets** and React Native.
@@ -32,7 +32,7 @@ Built a regression model to predict property valuations, optimizing performance 
 
 ---
 
-## 🛠️ Algorithms & Foundations
+##  Algorithms & Foundations
 *A collection of core engineering principles and algorithmic research.*
 
 * **[Pointer-Based Algorithms](https://github.com/Catheria29/PointerBasedAlgorithms):** Mastering C memory structures.
@@ -44,7 +44,7 @@ Built a regression model to predict property valuations, optimizing performance 
 
 ---
 
-## 📊 Data Science Explorations
+##  Data Science Explorations
 * **[Seaborn Data Visualization](https://github.com/Catheria29/Seaborn-):** Advanced EDA and statistical plotting.
 * **[Iris Classification](https://github.com/Catheria29/Iris):** Fundamental pattern recognition.
 * **[Student Record Management](https://github.com/Catheria29/StudentRecordManagementSystem):** Relational database logic and CRUD operations.
