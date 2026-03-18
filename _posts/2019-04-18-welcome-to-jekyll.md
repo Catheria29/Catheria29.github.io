@@ -1,29 +1,28 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Engineering for Impact: My Journey in AI/ML"
+date: 2026-03-17
 categories:
-  - blog
+  - Research
 tags:
-  - Jekyll
-  - update
+  - Computer Engineering
+  - Machine Learning
+  - Personal
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my technical portfolio. As a **Computer Engineering student** with a **3.84 GPA**, my work is driven by a commitment to solving complex problems through data-driven intelligence.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### The Vision
+My academic journey at **Antalya Bilim University** has been defined by a deep dive into both high-level AI theory and low-level systems engineering. I believe that to build truly effective AI, one must understand the underlying hardware and algorithmic efficiency.
 
-Jekyll also offers powerful support for code snippets:
+### Core Research Areas
+Currently, my focus is divided into three main pillars:
+1. **Predictive Healthcare:** Using models like Random Forest to improve maternal health outcomes (MaRAI).
+2. **Algorithmic Optimization:** Applying Genetic Algorithms to solve NP-hard constraints.
+3. **Real-Time Systems:** Designed a responsive mobile interface for instantaneous user interaction.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+### Bridging Cultures and Code
+Being a polyglot fluent in **5 languages** has shaped how I approach data. I recognize that datasets are not just numbers—they represent diverse human experiences. My goal is to develop AI that is as inclusive as it is accurate.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+---
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+*This site serves as a live documentation of my projects and research as I prepare for a Master's degree in Artificial Intelligence.*
