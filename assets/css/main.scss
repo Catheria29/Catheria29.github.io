@@ -1,0 +1,16 @@
+---
+# This ensures Jekyll processes the file
+---
+
+@import "minimal-mistakes";
+
+// Adjust the base font size (Default is usually 16px or 18px)
+html {
+  font-size: 14px; // Reduce this number to make text smaller
+}
+
+// Optional: Make headers a bit tighter too
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.2rem; }
+p { line-height: 1.4; } // Reduces space between lines
