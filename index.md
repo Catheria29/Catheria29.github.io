@@ -1,6 +1,9 @@
 ---
+layout: single
 title: "Learning and Building: My Introduction to AI"
 date: 2026-03-17
+permalink: /
+author_profile: true
 categories:
   - Journey
 tags:
@@ -8,14 +11,7 @@ tags:
   - Machine Learning
   - Deep Learning
   - Beginner
----
----
-layout: single
-title: "Learning and Building: My Introduction to AI"
-permalink: /
-author_profile: true
-sidebar:
-  nav: "main"
+    
 ---
 
 Welcome to my technical portfolio. I am a **Computer Engineering student** at **Antalya Bilim University** with a **3.84 GPA**. While I am at the beginning of my journey into Artificial Intelligence, I am passionate about using data to solve real-world problems.
