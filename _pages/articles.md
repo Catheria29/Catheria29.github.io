@@ -6,3 +6,7 @@ author_profile: true
 ---
 
 A collection of my thoughts on AI, Data Science, and Computer Engineering.
+
+{% for post in site.posts %}
+  {% include archive-single.md %}
+{% endfor %}
