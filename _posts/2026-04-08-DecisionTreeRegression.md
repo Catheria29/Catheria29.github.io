@@ -1,3 +1,13 @@
+---
+title: "Decision Tree Regressor"
+excerpt: "Understanding Decision Tree Regressor"
+categories:
+  - Machine Learning
+tags:
+  - Python
+  - ML
+  - DecisionTreeRegressor
+---
 # Understanding Decision Tree Regression
 
 ## Overview
