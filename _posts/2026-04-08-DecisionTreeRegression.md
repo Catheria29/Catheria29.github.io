@@ -3,7 +3,7 @@
 ## Overview
 A **Decision Tree Regressor** is a machine learning model that predicts continuous numerical values, such as prices, temperatures, or salaries. It works by learning simple decision rules from data features to build a flowchart-like tree structure.
 
-Think of it as a series of "yes-or-no" questions for your data.Each answer narrows down the possibilities—much like the game "20 Questions"—until a final numeric prediction is reached.
+Think of it as a series of "yes-or-no" questions for your data.Each answer narrows down the possibilities much like the game "20 Questions"until a final numeric prediction is reached.
 
 ## Tree Anatomy
 Every decision tree consists of four essential components:
@@ -19,14 +19,14 @@ Every decision tree consists of four essential components:
 
 ![House Price Decision Tree](/assets/images/Gemini_Generated_Image_ex7lbcex7lbcex7l.png)
 
-[cite_start]Based on the visualization above, here is how the regressor determines a house price:
+Based on the visualization above, here is how the regressor determines a house price:
 
 | Bedrooms | Lot Size | Predicted Price |
 | :--- | :--- | :--- |
-| $\le 2$ | $\le 790$ $m^2$ | [cite_start]**₺6,300,000**  |
-| $\le 2$ | $> 790$ $m^2$ | [cite_start]**₺8,100,000**  |
-| $> 2$ | $\le 1070$ $m^2$ | [cite_start]**₺7,300,000**  |
-| $> 2$ | $> 1070$ $m^2$ | [cite_start]**₺10,200,000**  |
+| $\le 2$ | $\le 790$ $m^2$ | **₺6,300,000**  |
+| $\le 2$ | $> 790$ $m^2$ | **₺8,100,000**  |
+| $> 2$ | $\le 1070$ $m^2$ | **₺7,300,000**  |
+| $> 2$ | $> 1070$ $m^2$ | **₺10,200,000**  |
 
 ---
 
@@ -40,15 +40,4 @@ To prevent **underfitting** or **overfitting**, we use hyperparameters to contro
 * **Criterion**: The mathematical formula (e.g., `squared_error`) used to evaluate the quality of a split.
 
 ## Implementation
-```python
-from sklearn.tree import DecisionTreeRegressor
-
-# Initializing the model with specific constraints 
-regressor = DecisionTreeRegressor(
-    max_depth=5,
-    min_samples_split=10,
-    min_samples_leaf=5,
-    max_features=None,
-    criterion='squared_error',
-    random_state=42
-)
+![Creating a Decision Tree Model](/assets/images/Gemini_Generated_Image_ex7lbcex7lbcex7l.png)
