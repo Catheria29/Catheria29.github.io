@@ -19,15 +19,21 @@ Every decision tree consists of four essential components:
 
 ![House Price Decision Tree](/assets/images/Gemini_Generated_Image_ex7lbcex7lbcex7l.png)
 
-Based on the visualization above, here is how the regressor determines a house price:
+Based on the provided model, here is how a prediction is made:
 
-| Bedrooms | Lot Size | Predicted Price |
-| :--- | :--- | :--- |
-| $\le 2$ | $\le 790$ $m^2$ | **₺6,300,000**  |
-| $\le 2$ | $> 790$ $m^2$ | **₺8,100,000**  |
-| $> 2$ | $\le 1070$ $m^2$ | **₺7,300,000**  |
-| $> 2$ | $> 1070$ $m^2$ | **₺10,200,000**  |
+    Root Question: Does the house have more than 2 bedrooms? 
 
+    The "No" Path: If it has 2 or fewer bedrooms, the model asks: "Is the lot size larger than 790 m2?".
+
+        No: Predicted Price = ₺6,300,000.
+
+        Yes: Predicted Price = ₺8,100,000.
+
+    The "Yes" Path: If it has more than 2 bedrooms, the model asks: "Is the lot size larger than 1070 m2?".
+
+        No: Predicted Price = ₺7,300,000.
+
+        Yes: Predicted Price = ₺10,200,000.
 ---
 
 ## Hyperparameter Tuning & Optimization
