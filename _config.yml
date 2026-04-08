@@ -15,7 +15,7 @@ search: true
 author:
   name   : "Catheria Bara"
   avatar : "/assets/images/bio-photo.jpg" # Ensure you upload your photo here!
-  bio    : "Computer Engineering Student (3.84 GPA) & YTB Scholar. Developing AI solutions for healthcare and impact."
+  bio    : "Computer Engineering Student (3.84 GPA) & YTB Scholar. Developing AI solutions "
   location: "Antalya, Turkey"
   links:
     - label: "GitHub"
@@ -23,7 +23,7 @@ author:
       url: "https://github.com/Catheria29"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/cath%C3%A9ria-bara-30506b217/" # Update with your actual LinkedIn slug
+      url: "www.linkedin.com/in/remi-catheria-claire-bara-30506b217" # Update with your actual LinkedIn slug
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:baracatheriaclaire@gmail.com"
