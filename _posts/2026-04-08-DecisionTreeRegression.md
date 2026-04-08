@@ -40,4 +40,4 @@ To prevent **underfitting** or **overfitting**, we use hyperparameters to contro
 * **Criterion**: The mathematical formula (e.g., `squared_error`) used to evaluate the quality of a split.
 
 ## Implementation
-![Creating a Decision Tree Model](/assets/images/Gemini_Generated_Image_ex7lbcex7lbcex7l.png)
+![Creating a Decision Tree Model](/assets/images/decisiontreeModel.png)
