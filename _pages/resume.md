@@ -10,6 +10,6 @@ author_profile: true
 
 ### Technical Skills
 * **AI/ML:** Scikit-Learn, Random Forest, Genetic Algorithms.
-* **Systems:** C/C++, Java, WebSockets, Linux.
+* **Java/C/Python/C++**
 
 [Download Full CV (PDF)](/assets/Catheria_Bara_CV.pdf)
