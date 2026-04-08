@@ -17,7 +17,7 @@ Every decision tree consists of four essential components:
 
 ## Practical Application: House Price Prediction
 
-![House Price Decision Tree](assets/images/Gemini_Generated_Image_ex7lbcex7lbcex7l.png)
+![House Price Decision Tree](/assets/images/Gemini_Generated_Image_ex7lbcex7lbcex7l.png)
 
 [cite_start]Based on the visualization above, here is how the regressor determines a house price:
 
